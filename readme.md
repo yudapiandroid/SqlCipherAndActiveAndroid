@@ -28,4 +28,7 @@
     ActiveAndroid.initialize(this,password);
 ```
 
+- - -
+
+**使用的方法和原来一样~~**
 
